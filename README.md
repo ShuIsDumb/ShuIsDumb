@@ -1,4 +1,3 @@
-<img width="45%" align="left" src="https://count.getloli.com/get/@Shu">
 <a href="https://discord.com/users/943394574259355670" target="_blank">
 	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/943394574259355670?bg=1f1f1f&borderRadius=5px">
 </a>
